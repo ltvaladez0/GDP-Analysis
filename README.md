@@ -33,24 +33,24 @@ The root directory contains the project developed in R-Studio, 2 sub-directories
  
  -cleanMergeData.R	  -This is an 'R' file that will clean and merge the data.
  
- Main 3 Files for Assignment:
  -GDP_Analysis_Report_Code_Visible.Rmd		-This is an 'RMD' file which is the R Markdown for this project.
  
  -GDP_Analysis_Report_Code_Visbible.md   -This is an 'MD' file which is the markdown for this project.
  
  -GDP_Analysis_Report_Code_Visible.html   -This is an 'html' file and R Markdown is knitted into this html.
 
+  -Readme_GDP_Analysis.txt	This is a text file that has all the required details on this project. 
+   It guides users to identify all 	 the file locations with a brief description on these files.
+      
  
  
- 
- -GDP_Analysis Client Report.Rmd   -This is an 'RMD' file with no codie visible.
+ Extra files.
+ -GDP_Analysis Client Report.Rmd   -This is an 'RMD' file with no code visible.
  
  -GDP_Analysis_Client_Report.html   -This is an 'html' file with no code visible.
  
  
  
- -Readme_GDP_Analysis.txt	This is a text file that has all the required details on this project. 
-   It guides users to identify all 	 the file locations with a brief description on these files.
-      
+
 
 

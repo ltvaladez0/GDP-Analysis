@@ -44,7 +44,9 @@ The root directory contains the project developed in R-Studio, 2 sub-directories
       
  
  
- Extra files.
+ Extra files:
+ 
+ 
  -GDP_Analysis Client Report.Rmd   -This is an 'RMD' file with no code visible.
  
  -GDP_Analysis_Client_Report.html   -This is an 'html' file with no code visible.

@@ -21,7 +21,7 @@ Directories & File Locations:
 
 The entire project was developed under the root directory "GDP_Analysis".
 
-The root directory contains the project developed in R-Studio, 2 sub-directories and 9 files.
+The root directory contains the project developed in R-Studio, 2 sub-directories and 7 files.
 
  -Data         -This directory is for the placement of downloaded data files.
  
@@ -43,13 +43,6 @@ The root directory contains the project developed in R-Studio, 2 sub-directories
    It guides users to identify all 	 the file locations with a brief description on these files.
       
  
- 
- Extra files:
- 
- 
- -GDP_Analysis Client Report.Rmd   -This is an 'RMD' file with no code visible.
- 
- -GDP_Analysis_Client_Report.html   -This is an 'html' file with no code visible.
  
  
  

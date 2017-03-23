@@ -1,0 +1,20 @@
+$`Low income`
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+   596.00   3814.00   7843.00  14410.78  17204.00 116355.00 
+
+$`Lower middle income`
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+     40    2549   24272  256663   81448 8227103 
+
+$`Upper middle income`
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+    228.0    9613.0   42945.0  231847.8  205789.0 2252664.0 
+
+$`High income: nonOECD`
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+  2584.0  12838.0  28373.0 104349.8 131204.5 711050.0 
+
+$`High income: OECD`
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+   13579   211147   486528  1483917  1480047 16244600 
+

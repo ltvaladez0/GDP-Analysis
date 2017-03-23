@@ -1,0 +1,239 @@
+"","CountryCode","Long.Name","Income.Group","Ranking","Country","GDPvalue"
+"1","ABW","Aruba","High income: nonOECD",161,"Aruba",2584
+"2","ADO","Principality of Andorra","High income: nonOECD",NA,"Andorra",NA
+"3","AFG","Islamic State of Afghanistan","Low income",105,"Afghanistan",20497
+"4","AGO","People's Republic of Angola","Lower middle income",60,"Angola",114147
+"5","ALB","Republic of Albania","Upper middle income",125,"Albania",12648
+"6","ARE","United Arab Emirates","High income: nonOECD",32,"United Arab Emirates",348595
+"7","ARG","Argentine Republic","Upper middle income",26,"Argentina",475502
+"8","ARM","Republic of Armenia","Lower middle income",133,"Armenia",9951
+"9","ASM","American Samoa","Upper middle income",NA,"American Samoa",NA
+"10","ATG","Antigua and Barbuda","Upper middle income",172,"Antigua and Barbuda",1134
+"11","AUS","Commonwealth of Australia","High income: OECD",12,"Australia",1532408
+"12","AUT","Republic of Austria","High income: OECD",27,"Austria",394708
+"13","AZE","Republic of Azerbaijan","Upper middle income",68,"Azerbaijan",66605
+"14","BDI","Republic of Burundi","Low income",162,"Burundi",2472
+"15","BEL","Kingdom of Belgium","High income: OECD",25,"Belgium",483262
+"16","BEN","Republic of Benin","Low income",140,"Benin",7557
+"17","BFA","Burkina Faso","Low income",128,"Burkina Faso",10441
+"18","BGD","People's Republic of Bangladesh","Low income",59,"Bangladesh",116355
+"19","BGR","Republic of Bulgaria","Upper middle income",76,"Bulgaria",50972
+"20","BHR","Kingdom of Bahrain","High income: nonOECD",93,"Bahrain",29044
+"21","BHS","Commonwealth of The Bahamas","High income: nonOECD",138,"Bahamas, The",8149
+"22","BIH","Bosnia and Herzegovina","Upper middle income",111,"Bosnia and Herzegovina",17466
+"23","BLR","Republic of Belarus","Upper middle income",69,"Belarus",63267
+"24","BLZ","Belize","Lower middle income",169,"Belize",1493
+"25","BMU","The Bermudas","High income: nonOECD",149,"Bermuda",5474
+"26","BOL","Plurinational State of Bolivia","Lower middle income",96,"Bolivia",27035
+"27","BRA","Federative Republic of Brazil","Upper middle income",7,"Brazil",2252664
+"28","BRB","Barbados","High income: nonOECD",153,"Barbados",4225
+"29","BRN","Brunei Darussalam","High income: nonOECD",113,"Brunei Darussalam",16954
+"30","BTN","Kingdom of Bhutan","Lower middle income",167,"Bhutan",1780
+"31","BWA","Republic of Botswana","Upper middle income",117,"Botswana",14504
+"32","CAF","Central African Republic","Low income",165,"Central African Republic",2184
+"33","CAN","Canada","High income: OECD",11,"Canada",1821424
+"34","CHE","Switzerland","High income: OECD",20,"Switzerland",631173
+"35","CHI","Channel Islands","High income: nonOECD",NA,"Channel Islands",NA
+"36","CHL","Republic of Chile","Upper middle income",36,"Chile",269869
+"37","CHN","People's Republic of China","Lower middle income",2,"China",8227103
+"38","CIV","Republic of Côte d'Ivoire","Lower middle income",99,"Côte d'Ivoire",24680
+"39","CMR","Republic of Cameroon","Lower middle income",98,"Cameroon",25322
+"40","COG","Republic of Congo","Lower middle income",121,"Congo, Rep.",13678
+"41","COL","Republic of Colombia","Upper middle income",30,"Colombia",369606
+"42","COM","Union of the Comoros","Low income",182,"Comoros",596
+"43","CPV","Republic of Cape Verde","Lower middle income",166,"Cape Verde",1827
+"44","CRI","Republic of Costa Rica","Upper middle income",81,"Costa Rica",45104
+"45","CUB","Republic of Cuba","Upper middle income",67,"Cuba",68234
+"46","CUW",NA,NA,NA,"Curaçao",NA
+"47","CYM","Cayman Islands","High income: nonOECD",NA,"Cayman Islands",NA
+"48","CYP","Republic of Cyprus","High income: nonOECD",102,"Cyprus",22767
+"49","CZE","Czech Republic","High income: OECD",51,"Czech Republic",196446
+"50","DEU","Federal Republic of Germany","High income: OECD",4,"Germany",3428131
+"51","DJI","Republic of Djibouti","Lower middle income",NA,"Djibouti",NA
+"52","DMA","Commonwealth of Dominica","Upper middle income",183,"Dominica",480
+"53","DNK","Kingdom of Denmark","High income: OECD",33,"Denmark",314887
+"54","DOM","Dominican Republic","Upper middle income",72,"Dominican Republic",59047
+"55","DZA","People's Democratic Republic of Algeria","Upper middle income",48,"Algeria",205789
+"56","EAP","East Asia & Pacific (developing only)","",NA,"  East Asia & Pacific",10329684
+"57","EAS","East Asia & Pacific (all income levels)","",NA,NA,NA
+"58","ECA","Europe & Central Asia (developing only)","",NA,"  Europe & Central Asia",1887950
+"59","ECS","Europe & Central Asia (all income levels)","",NA,NA,NA
+"60","ECU","Republic of Ecuador","Lower middle income",64,"Ecuador",84040
+"61","EGY","Arab Republic of Egypt","Lower middle income",38,"Egypt, Arab Rep.",262832
+"62","EMU","Euro area","",NA,"  Euro area",12192344
+"63","ERI","State of Eritrea","Low income",159,"Eritrea",3092
+"64","ESP","Kingdom of Spain","High income: OECD",13,"Spain",1322965
+"65","EST","Republic of Estonia","High income: nonOECD",103,"Estonia",22390
+"66","ETH","Federal Democratic Republic of Ethiopia","Low income",85,"Ethiopia",41605
+"67","FIN","Republic of Finland","High income: OECD",43,"Finland",247546
+"68","FJI","Republic of Fiji","Upper middle income",155,"Fiji",3908
+"69","FRA","French Republic","High income: OECD",5,"France",2612878
+"70","FRO","Faeroe Islands","High income: nonOECD",NA,"Faeroe Islands",NA
+"71","FSM","Federated States of Micronesia","Lower middle income",185,"Micronesia, Fed. Sts.",326
+"72","GAB","Gabonese Republic","Upper middle income",109,"Gabon",18377
+"73","GBR","United Kingdom of Great Britain and Northern Ireland","High income: OECD",6,"United Kingdom",2471784
+"74","GEO","Georgia","Lower middle income",114,"Georgia",15747
+"75","GHA","Republic of Ghana","Low income",86,"Ghana",40711
+"76","GIN","Republic of Guinea","Low income",148,"Guinea",5632
+"77","GMB","Republic of The Gambia","Low income",175,"Gambia, The",917
+"78","GNB","Republic of Guinea-Bissau","Low income",176,"Guinea-Bissau",822
+"79","GNQ","Republic of Equatorial Guinea","High income: nonOECD",110,"Equatorial Guinea",17697
+"80","GRC","Hellenic Republic","High income: OECD",42,"Greece",249099
+"81","GRD","Grenada","Upper middle income",178,"Grenada",767
+"82","GRL","Greenland","High income: nonOECD",NA,"Greenland",NA
+"83","GTM","Republic of Guatemala","Lower middle income",77,"Guatemala",50234
+"84","GUM","Guam","High income: nonOECD",NA,"Guam",NA
+"85","GUY","Republic of Guyana","Lower middle income",160,"Guyana",2851
+"86","HIC","High income","",NA,"High income",49717634
+"87","HKG","Hong Kong Special Administrative Region of the People's Republic of China","High income: nonOECD",37,"Hong Kong SAR, China",263259
+"88","HND","Republic of Honduras","Lower middle income",108,"Honduras",18434
+"89","HPC","Heavily indebted poor countries (HIPC)","",NA,NA,NA
+"90","HRV","Republic of Croatia","High income: nonOECD",71,"Croatia",59228
+"91","HTI","Republic of Haiti","Low income",139,"Haiti",7843
+"92","HUN","Republic of Hungary","High income: OECD",58,"Hungary",124600
+"93","IDN","Republic of Indonesia","Lower middle income",16,"Indonesia",878043
+"94","IMY","Isle of Man","High income: nonOECD",NA,"Isle of Man",NA
+"95","IND","Republic of India","Lower middle income",10,"India",1841710
+"96","IRL","Ireland","High income: OECD",46,"Ireland",210771
+"97","IRN","Islamic Republic of Iran","Upper middle income",22,"Iran, Islamic Rep.",514060
+"98","IRQ","Republic of Iraq","Lower middle income",47,"Iraq",210280
+"99","ISL","Republic of Iceland","High income: OECD",122,"Iceland",13579
+"100","ISR","State of Israel","High income: OECD",40,"Israel",258217
+"101","ITA","Italian Republic","High income: OECD",9,"Italy",2014670
+"102","JAM","Jamaica","Upper middle income",116,"Jamaica",14755
+"103","JOR","Hashemite Kingdom of Jordan","Lower middle income",92,"Jordan",31015
+"104","JPN","Japan","High income: OECD",3,"Japan",5959718
+"105","KAZ","Republic of Kazakhstan","Upper middle income",50,"Kazakhstan",203521
+"106","KEN","Republic of Kenya","Low income",87,"Kenya",40697
+"107","KGZ","Kyrgyz Republic","Low income",145,"Kyrgyz Republic",6475
+"108","KHM","Kingdom of Cambodia","Low income",120,"Cambodia",14038
+"109","KIR","Republic of Kiribati","Lower middle income",189,"Kiribati",175
+"110","KNA","St. Kitts and Nevis","Upper middle income",178,"St. Kitts and Nevis",767
+"111","KOR","Republic of Korea","High income: OECD",15,"Korea, Rep.",1129598
+"112","KSV","Republic of Kosovo","Lower middle income",146,"Kosovo",6445
+"113","KWT","State of Kuwait","High income: nonOECD",56,"Kuwait",160913
+"114","LAC","Latin America & Caribbean (developing only)","",NA,"  Latin America & Caribbean",5344028
+"115","LAO","Lao People's Democratic Republic","Low income",136,"Lao PDR",9418
+"116","LBN","Lebanese Republic","Upper middle income",83,"Lebanon",42945
+"117","LBR","Republic of Liberia","Low income",168,"Liberia",1734
+"118","LBY","Socialist People's Libyan Arab Jamahiriya","Upper middle income",NA,"Libya",NA
+"119","LCA","St. Lucia","Upper middle income",171,"St. Lucia",1239
+"120","LCN","Latin America & Caribbean (all income levels)","",NA,NA,NA
+"121","LDC","Least developed countries: UN classification","",NA,NA,NA
+"122","LIC","Low income","",NA,"Low income",504431
+"123","LIE","Principality of Liechtenstein","High income: nonOECD",NA,"Liechtenstein",NA
+"124","LKA","Democratic Socialist Republic of Sri Lanka","Lower middle income",70,"Sri Lanka",59423
+"125","LMC","Lower middle income","",NA,"  Lower middle income",4823811
+"126","LMY","Low & middle income","",NA,"Low & middle income",22769282
+"127","LSO","Kingdom of Lesotho","Lower middle income",163,"Lesotho",2448
+"128","LTU","Republic of Lithuania","Upper middle income",84,"Lithuania",42344
+"129","LUX","Grand Duchy of Luxembourg","High income: OECD",74,"Luxembourg",55178
+"130","LVA","Republic of Latvia","High income: nonOECD",94,"Latvia",28373
+"131","MAC","Macao Special Administrative Region of the People's Republic of China","High income: nonOECD",82,"Macao SAR, China",43582
+"132","MAF",NA,NA,NA,"St. Martin (French part)",NA
+"133","MAR","Kingdom of Morocco","Lower middle income",62,"Morocco",95982
+"134","MCO","Principality of Monaco","High income: nonOECD",147,"Monaco",6075
+"135","MDA","Republic of Moldova","Lower middle income",141,"Moldova",7253
+"136","MDG","Republic of Madagascar","Low income",132,"Madagascar",9975
+"137","MDV","Republic of Maldives","Lower middle income",164,"Maldives",2222
+"138","MEA","Middle East & North Africa (all income levels)","",NA,NA,NA
+"139","MEX","United Mexican States","Upper middle income",14,"Mexico",1178126
+"140","MHL","Republic of the Marshall Islands","Lower middle income",188,"Marshall Islands",182
+"141","MIC","Middle income","",NA,"Middle income",22249909
+"142","MKD","Former Yugoslav Republic of Macedonia","Upper middle income",135,"Macedonia, FYR",9613
+"143","MLI","Republic of Mali","Low income",129,"Mali",10308
+"144","MLT","Republic of Malta","High income: nonOECD",137,"Malta",8722
+"145","MMR","Union of Myanmar","Low income",NA,"Myanmar",NA
+"146","MNA","Middle East & North Africa (developing only)","",NA,"  Middle East & North Africa",1540807
+"147","MNE","Montenegro","Upper middle income",151,"Montenegro",4373
+"148","MNG","Mongolia","Lower middle income",130,"Mongolia",10271
+"149","MNP","Commonwealth of the Northern Mariana Islands","High income: nonOECD",NA,"Northern Mariana Islands",NA
+"150","MOZ","Republic of Mozambique","Low income",118,"Mozambique",14244
+"151","MRT","Islamic Republic of Mauritania","Low income",154,"Mauritania",4199
+"152","MUS","Republic of Mauritius","Upper middle income",127,"Mauritius",10486
+"153","MWI","Republic of Malawi","Low income",152,"Malawi",4264
+"154","MYS","Malaysia","Upper middle income",34,"Malaysia",305033
+"155","NAC","North America","",NA,NA,NA
+"156","NAM","Republic of Namibia","Upper middle income",123,"Namibia",13072
+"157","NCL","New Caledonia","High income: nonOECD",NA,"New Caledonia",NA
+"158","NER","Republic of Niger","Low income",144,"Niger",6773
+"159","NGA","Federal Republic of Nigeria","Lower middle income",39,"Nigeria",262597
+"160","NIC","Republic of Nicaragua","Lower middle income",126,"Nicaragua",10507
+"161","NLD","Kingdom of the Netherlands","High income: OECD",18,"Netherlands",770555
+"162","NOC","High income: nonOECD","",NA,NA,NA
+"163","NOR","Kingdom of Norway","High income: OECD",23,"Norway",499667
+"164","NPL","Nepal","Low income",107,"Nepal",18963
+"165","NZL","New Zealand","High income: OECD",55,"New Zealand",167347
+"166","OEC","High income: OECD","",NA,NA,NA
+"167","OMN","Sultanate of Oman","High income: nonOECD",66,"Oman",69972
+"168","PAK","Islamic Republic of Pakistan","Lower middle income",44,"Pakistan",225143
+"169","PAN","Republic of Panama","Upper middle income",89,"Panama",36253
+"170","PER","Republic of Peru","Upper middle income",49,"Peru",203790
+"171","PHL","Republic of the Philippines","Lower middle income",41,"Philippines",250182
+"172","PLW","Republic of Palau","Upper middle income",187,"Palau",228
+"173","PNG","The Independent State of Papua New Guinea","Lower middle income",115,"Papua New Guinea",15654
+"174","POL","Republic of Poland","High income: OECD",24,"Poland",489795
+"175","PRI","Puerto Rico","High income: nonOECD",61,"Puerto Rico",101496
+"176","PRK","Democratic People's Republic of Korea","Low income",NA,"Korea, Dem. Rep.",NA
+"177","PRT","Portuguese Republic","High income: OECD",45,"Portugal",212274
+"178","PRY","Republic of Paraguay","Lower middle income",97,"Paraguay",25502
+"179","PYF","French Polynesia","High income: nonOECD",NA,"French Polynesia",NA
+"180","QAT","State of Qatar","High income: nonOECD",54,"Qatar",171476
+"181","ROM","Romania","Upper middle income",52,"Romania",192711
+"182","RUS","Russian Federation","Upper middle income",8,"Russian Federation",2014775
+"183","RWA","Republic of Rwanda","Low income",142,"Rwanda",7103
+"184","SAS","South Asia","",NA,"  South Asia",2286093
+"185","SAU","Kingdom of Saudi Arabia","High income: nonOECD",19,"Saudi Arabia",711050
+"186","SDN","Republic of the Sudan","Lower middle income",73,"Sudan",58769
+"187","SEN","Republic of Senegal","Lower middle income",119,"Senegal",14046
+"188","SGP","Republic of Singapore","High income: nonOECD",35,"Singapore",274701
+"189","SLB","Solomon Islands","Low income",174,"Solomon Islands",1008
+"190","SLE","Republic of Sierra Leone","Low income",157,"Sierra Leone",3796
+"191","SLV","Republic of El Salvador","Lower middle income",100,"El Salvador",23864
+"192","SMR","Republic of San Marino","High income: nonOECD",NA,"San Marino",NA
+"193","SOM","Somali Democratic Republic","Low income",NA,"Somalia",NA
+"194","SRB","Republic of Serbia","Upper middle income",88,"Serbia",37489
+"195","SSA","Sub-Saharan Africa (developing only)","",NA,"  Sub-Saharan Africa",1289813
+"196","SSD",NA,NA,131,"South Sudan",10220
+"197","SSF","Sub-Saharan Africa (all income levels)","",NA,NA,NA
+"198","STP","Democratic Republic of São Tomé and Principe","Lower middle income",186,"São Tomé and Principe",263
+"199","SUR","Republic of Suriname","Upper middle income",150,"Suriname",5012
+"200","SVK","Slovak Republic","High income: OECD",63,"Slovak Republic",91149
+"201","SVN","Republic of Slovenia","High income: OECD",80,"Slovenia",45279
+"202","SWE","Kingdom of Sweden","High income: OECD",21,"Sweden",523806
+"203","SWZ","Kingdom of Swaziland","Lower middle income",158,"Swaziland",3744
+"204","SXM",NA,NA,NA,"Sint Maarten (Dutch part)",NA
+"205","SYC","Republic of Seychelles","Upper middle income",173,"Seychelles",1129
+"206","SYR","Syrian Arab Republic","Lower middle income",65,"Syrian Arab Republic",73672
+"207","TCA","Turks and Caicos Islands","High income: nonOECD",NA,"Turks and Caicos Islands",NA
+"208","TCD","Republic of Chad","Low income",124,"Chad",12887
+"209","TGO","Republic of Togo","Low income",156,"Togo",3814
+"210","THA","Kingdom of Thailand","Lower middle income",31,"Thailand",365966
+"211","TJK","Republic of Tajikistan","Low income",143,"Tajikistan",6972
+"212","TKM","Turkmenistan","Lower middle income",91,"Turkmenistan",35164
+"213","TMP","Democratic Republic of Timor-Leste","Lower middle income",170,"Timor-Leste",1293
+"214","TON","Kingdom of Tonga","Lower middle income",184,"Tonga",472
+"215","TTO","Republic of Trinidad and Tobago","High income: nonOECD",101,"Trinidad and Tobago",23320
+"216","TUN","Republic of Tunisia","Lower middle income",79,"Tunisia",45662
+"217","TUR","Republic of Turkey","Upper middle income",17,"Turkey",789257
+"218","TUV","Tuvalu","Lower middle income",190,"Tuvalu",40
+"219","TZA","United Republic of Tanzania","Low income",95,"Tanzania",28242
+"220","UGA","Republic of Uganda","Low income",106,"Uganda",19881
+"221","UKR","Ukraine","Lower middle income",53,"Ukraine",176309
+"222","UMC","Upper middle income","",NA,"  Upper middle income",17426690
+"223","URY","Oriental Republic of Uruguay","Upper middle income",78,"Uruguay",49920
+"224","USA","United States of America","High income: OECD",1,"United States",16244600
+"225","UZB","Republic of Uzbekistan","Lower middle income",75,"Uzbekistan",51113
+"226","VCT","St. Vincent and the Grenadines","Upper middle income",180,"St. Vincent and the Grenadines",713
+"227","VEN","República Bolivariana de Venezuela","Upper middle income",29,"Venezuela, RB",381286
+"228","VIR","Virgin Islands of the United States","High income: nonOECD",NA,"Virgin Islands (U.S.)",NA
+"229","VNM","Socialist Republic of Vietnam","Lower middle income",57,"Vietnam",155820
+"230","VUT","Republic of Vanuatu","Lower middle income",177,"Vanuatu",787
+"231","WBG","West Bank and Gaza","Lower middle income",NA,"West Bank and Gaza",NA
+"232","WLD","World","",NA,"World",72440449
+"233","WSM","Samoa","Lower middle income",181,"Samoa",684
+"234","YEM","Republic of Yemen","Lower middle income",90,"Yemen, Rep.",35646
+"235","ZAF","Republic of South Africa","Upper middle income",28,"South Africa",384313
+"236","ZAR","Democratic Republic of the Congo","Low income",112,"Congo, Dem. Rep.",17204
+"237","ZMB","Republic of Zambia","Low income",104,"Zambia",20678
+"238","ZWE","Republic of Zimbabwe","Low income",134,"Zimbabwe",9802
